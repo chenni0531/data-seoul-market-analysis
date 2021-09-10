@@ -192,7 +192,7 @@ K-평균 군집분석은 각 군집에 할당된 데이터와 군집의 중심�
 7. 크롤링한 데이터의 감성 분석을 실시해, 전체 리뷰 개수 대비 긍정 리뷰 개수 비율을 추출했다. 추출한 긍정 리뷰 개수 비율은 새로운 상권 분류 모델을 개발하는 데 변수로 활용하였다.
 </div>
 </details>
-[출처: 한국어에 적합한 단어 임베딩 학습 방법](https://www.koreascience.or.kr/article/CFKO201612470014866.pdf)
+[출처 - 한국어에 적합한 단어 임베딩 학습 방법](https://www.koreascience.or.kr/article/CFKO201612470014866.pdf)
 
 
 
@@ -294,7 +294,7 @@ K-평균 군집분석은 각 군집에 할당된 데이터와 군집의 중심�
 
 **🍳 프로젝트를 마치며**
 
-| BGJ     | 업무 |
+| BGJ     | 한 마디 |
 | ------- | -------- |
 | [Bright 채은](https://github.com/chenni0531) | 중간중간 어려움이 있었지만 팀원들과 함께 이겨내고 보고서까지 완료해내어 뿌듯했다. 실생활의 데이터를 통해 새로운 의미를 찾는 과정이 즐거웠다:) 이번 기회를 발판 삼아서 다음 프로젝트에서는 더욱 깊이있게 분석 기술을 배우고 적용해보고 싶다. |
 | [Gleaming 수빈](https://github.com/axxsxbxx)   | 처음으로 참가하는 공모전이어서 걱정도 많고 막혔던 부분도 많았다. 팀원들과 함께 공부하고 도와가면서 무사히 마칠 수 있어서 뿌듯하다. 다음 공모전 떄는 좀 더 깊은 이해도를 가지고 진행할 수 있을 것 같다:) |
@@ -307,7 +307,6 @@ K-평균 군집분석은 각 군집에 할당된 데이터와 군집의 중심�
 <br>
 <br>
 
-<center>
-    <span style="background-color:lemonchiffon">🍋 BGJ, Brilliantly 눈부시게 Growing 성장하는 Juniors 데린이들 🍋</span>
-    <br>
-    데이터 분석을 통해 인사이트를 발견하여 누구나 빛나고 즐거운 사회를 만들고 싶은 BGJ</center>
+<span style="background-color:lemonchiffon">🍋 BGJ, Brilliantly 눈부시게 Growing 성장하는 Juniors 데린이들 🍋</span>
+<br>
+데이터 분석을 통해 인사이트를 발견하여 누구나 빛나고 즐거운 사회를 만들고 싶은 BGJ

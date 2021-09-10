@@ -192,7 +192,9 @@ K-평균 군집분석은 각 군집에 할당된 데이터와 군집의 중심�
 7. 크롤링한 데이터의 감성 분석을 실시해, 전체 리뷰 개수 대비 긍정 리뷰 개수 비율을 추출했다. 추출한 긍정 리뷰 개수 비율은 새로운 상권 분류 모델을 개발하는 데 변수로 활용하였다.
 </div>
 </details>
-[출처: 한국어에 적합한 단어 임베딩 학습 방법은 CBOW 혹은 skip-gram 기반의 Word2Vec 모델](https://www.koreascience.or.kr/article/CFKO201612470014866.pdf)
+[출처: 한국어에 적합한 단어 임베딩 학습 방법](https://www.koreascience.or.kr/article/CFKO201612470014866.pdf)
+
+
 
 <br>
 
@@ -305,4 +307,7 @@ K-평균 군집분석은 각 군집에 할당된 데이터와 군집의 중심�
 <br>
 <br>
 
-<center><small><span style="background-color:lemonchiffon">🍋 BGJ, Brilliantly 눈부시게 Growing 성장하는 Juniors 데린이들 🍋</span><br>데이터 분석을 통해 인사이트를 발견하여 누구나 빛나고 즐거운 사회를 만들고 싶은 BGJ</small></center>
+<center>
+    <span style="background-color:lemonchiffon">🍋 BGJ, Brilliantly 눈부시게 Growing 성장하는 Juniors 데린이들 🍋</span>
+    <br>
+    데이터 분석을 통해 인사이트를 발견하여 누구나 빛나고 즐거운 사회를 만들고 싶은 BGJ</center>
